@@ -3,6 +3,7 @@
 # CW Python Front End Testing Framework #
 
  * Test Driver: nose2
+ * CW library
  * Fabric
  * Webdriver
 

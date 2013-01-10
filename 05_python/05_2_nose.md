@@ -14,3 +14,10 @@ nose2 - https://nose2.readthedocs.org
 !SLIDE
 
 # Config #
+
+ * yaml
+ * amm
+ * username/password
+ * test in preview, live or both
+ * arbitray information (like page IDs)
+
