@@ -1,4 +1,4 @@
-i-♥-qa-presentation
+I ♥ QA Ppresentation
 ===================
 
-An presentation for the Clockwork unconference about QA.
+An presentation for the Clockwork Unconference 2012 about QA.
