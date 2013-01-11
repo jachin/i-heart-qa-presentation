@@ -1,6 +1,10 @@
+!SLIDE center
+
+<img src="python-logo.png" height="75%" />
+
 !SLIDE
 
-# CW Python Front End Testing Framework #
+# Python Front End Testing Framework #
 
  * Test Driver: nose2
  * CW library
@@ -14,5 +18,4 @@
  * publish.py
  * scheduler.py
  * amm_sanity_check.py
-
 
