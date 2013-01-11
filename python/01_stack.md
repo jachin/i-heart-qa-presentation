@@ -13,9 +13,8 @@
 
 !SLIDE
 
-# More the Just Front End Unit Tests #
+## More the Just Front End Unit Tests ##
 
- * publish.py
- * scheduler.py
- * amm_sanity_check.py
-
+ * `publish.py`
+ * `scheduler.py`
+ * `GitSync.py`

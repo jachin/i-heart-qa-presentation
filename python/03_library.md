@@ -9,6 +9,14 @@
 
 !SLIDE transition=none
 
+# AMM #
+
+ * publishing
+ * users
+ * pages
+
+!SLIDE transition=none
+
 # Members #
 
  * create members
@@ -21,6 +29,21 @@
 
  * Fill in regblock with Lable/Value pairs
  * Any type of form field
+
+!SLIDE transition=none
+
+# ACE #
+
+ * inventory
+ * magic pages
+ * scheduled tasks
+
+!SLIDE transition=none
+
+# APP #
+ 
+ * reg blocks again
+   * it's so nice to not have to constantly be filling out reg blocks.
 
 !SLIDE smaller transition=none
 
