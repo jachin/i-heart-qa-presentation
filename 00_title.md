@@ -1,4 +1,4 @@
-I ♥ QA
-=======
+# I ♥ QA #
 
-Test Plans - Front End Testing - Continues Integration
+
+### Test Plans • Front End Testing • Continuous Integration ###
